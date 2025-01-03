@@ -1,0 +1,10 @@
+9
+1 Developer Dezvoltare software C++,Python,SQL
+2 GraphicDesigner Design grafic Photoshop,Illustrator,InDesign
+3 ProjectManager Manager de proiect Management,Leadership,Planning
+4 QAEngineer Testare software QA,Automation,Selenium
+5 DevOpsEngineer Specialist DevOps CI/CD,Docker,Kubernetes
+6 DataScientist Data science si machine learning Python,R,TensorFlow
+7 MarketingSpecialist Marketing digital SEO,GoogleAds,ContentCreation
+8 HRCoordinator Resurse umane Recruitment,EmployeeRelations,Training
+9 SoftwareArchitect Arhitectura Software Java,C#,Microservices
